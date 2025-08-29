@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
+categories: [blog]
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<img src="/mango/assets/images/zorro_interests.jpg" alt="My Interests" style="width: auto; height: 350px;">
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Covering topics that intersts me.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+* __Technology__: I have been software industry for long, first as a software engineer and now as a data scientist.
+* __Physics__ :  I entered college thinking Physics is hard. It still is, but it is also lot of fun.
+* __Poetry__ :  Growing up, I was drawn to Hindi poetry. It provides me with inspiration and solace.
