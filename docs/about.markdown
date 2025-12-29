@@ -5,7 +5,7 @@ categories: [blog]
 permalink: /about/
 ---
 
-<img src="/mango/assets/images/zorro_interests.jpg" alt="My Interests" style="width: auto; height: 350px;">
+<img src="/assets/images/zorro_interests.jpg" alt="My Interests" style="width: auto; height: 350px;">
 
 Covering topics that intersts me.
 
