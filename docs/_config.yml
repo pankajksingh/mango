@@ -22,7 +22,7 @@ title: Zorro's Blog
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   My musings on paths new and staid. My interests are technology(AI, software), Physics, and poetry(Hindi).
-baseurl: "/mango" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pankajksingh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pankajktweets
 github_username:  pankajksingh
