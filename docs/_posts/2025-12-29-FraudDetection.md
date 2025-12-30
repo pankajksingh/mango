@@ -3,7 +3,10 @@ layout: post
 title:  "Fraud detection in Cloud"
 date:   2025-12-29 
 categories: blog
+post_icon : "/assets/images/fox-mouse-chase.jpg"
 ---
+
+<img src="/assets/images/fox-mouse-chase.jpg" style="width: auto; height: 350px;">
 
 # TL;DR
 We live in a digital world where fraud has become a common experience. Perhaps you have been a victim of credit card fraud. If you bank with a sophisticated institution, you might have been notified before the fraud strikes. Hyperscalers face fraud on a persistent basis and they need to protect their legitimate customers against fraud. Here we discuss the nature of fraud in cloud business and ways to deal with the challenge.
