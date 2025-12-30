@@ -27,7 +27,7 @@ Let us review some desirable attributes of our detection mechanism by defining m
 
 ## Accuracy
 
-Industry practices is to measure precision and recall. These metrics pull in opposite directions. If the business cares about one metric over other, we can tailor our detection system for that.
+Industry practice is to measure precision and recall. These metrics pull in opposite directions. If the business cares about one metric over other, we can tailor our detection system for that.
 
 ### Precision
 This measures the percentage of fraudulent detections across all detections. High precision detection will catch the fraudster without impacting other legitimate usage. 
