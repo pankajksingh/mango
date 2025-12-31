@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fraud detection in Cloud"
-date:   2025-12-29 
+date:   2023-06-15 
 categories: blog
 post_icon : "/assets/images/fox-mouse-chase.jpg"
 ---

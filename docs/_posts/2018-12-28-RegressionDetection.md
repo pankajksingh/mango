@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Detecting software regressions"
-date:   2025-12-28 
+date:   2018-12-28 
 categories: blog
 post_icon : "/assets/images/gandalf-balrog.jpg"
 ---

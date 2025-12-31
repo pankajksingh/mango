@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Generative AI"
-date:   2020-12-29 
+date:   2024-12-29 
 categories: blog
 post_icon : "/assets/images/optimus_transformer.jpg"
 ---
